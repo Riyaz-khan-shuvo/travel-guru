@@ -1,0 +1,24 @@
+.header a {
+    color: #fff;
+}
+
+.light-img {
+    height: 40px;
+    filter: brightness(600%);
+}
+
+.dark-img {
+    height: 40px;
+}
+
+.visibility {
+    visibility: hidden;
+}
+
+.nav-link{
+    padding: 0 25px;
+}
+
+@media(max-width: 576px) {
+   
+}

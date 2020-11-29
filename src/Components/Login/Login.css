@@ -1,0 +1,8 @@
+.toggle-field {
+    color: #f9a51a;
+}
+
+.toggle-field:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}

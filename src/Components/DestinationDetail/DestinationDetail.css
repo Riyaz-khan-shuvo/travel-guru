@@ -1,0 +1,12 @@
+.destination-detail {
+    color: #fff;
+}
+.itinerary {
+    background-color: #fff;
+    max-width: 470px;
+    padding: 20px;
+    border-radius: 5px;
+}
+.details-container {
+    margin-top: 100px;
+}

@@ -1,0 +1,49 @@
+.slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider .card-item {
+    border-radius: 15px;
+}
+
+.slider .card-item:hover {
+    border: 5px solid #E5E510;
+}
+
+#active {
+    border: 5px solid #E5E510;
+}
+
+.slider h3 {
+    margin-top: -45px;
+    color: #ffff;
+}
+
+.all-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.place-description {
+    color: #fff;
+}
+
+.place-description p {
+    text-align: justify;
+}
+
+.place-description .booking {
+    border: none;
+    padding: 9px 15px;
+    background: #F9A51A;
+    border-radius: 5px;
+}
+
+@media(max-width: 567px) {
+    .card-item {
+        margin: 35px 0;
+    }
+}
