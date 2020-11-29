@@ -2,9 +2,9 @@ var data = [
     {
         name: "Sundorbon",
         info:
-            "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias facere reiciendis soluta voluptate a minima ratione ut doloremque fuga mollitia.",
+            "The Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans from the Hooghly River in India's state of West Bengal to the Baleswar River in Bangladesh.",
         detailInfo:
-            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel et impedit molestiae laborum tempore suscipit in fugit ex, iure odio saepe cumque quibusdam assumenda odit velit quisquam culpa amet illo placeat itaque, est unde recusandae sed? Fugit totam quas maiores.",
+            "The Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans from the Hooghly River in India's state of West Bengal to the Baleswar River in Bangladesh. It comprises closed and open mangrove forests, agriculturally used land, mudflats and barren land, and is intersected by multiple tidal streams and channels. Four protected areas in the Sundarbans are enlisted as UNESCO World Heritage Sites, viz. Sundarbans National Park, Sundarbans West, Sundarbans South and Sundarbans East Wildlife Sanctuaries.",
         img: "https://i.ibb.co/sQVmZP0/sundorbon.png" ,
         id: 2,
         category: "destination",
@@ -16,7 +16,7 @@ var data = [
         info:
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias facere reiciendis soluta voluptate a minima ratione ut doloremque fuga mollitia.",
         detailInfo:
-            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel et impedit molestiae laborum tempore suscipit in fugit ex, iure odio saepe cumque quibusdam assumenda odit velit quisquam culpa amet illo placeat itaque, est unde recusandae sed? Fugit totam quas maiores.",
+            "The name of Sajek Valley came from the Sajek River that originates from Karnafuli river. The Sajek river works as a border between Bangladesh and India.Sajek is a union located in the north of Chittagong Hill Tracts. It's under Baghaichori Upazila in Rangamati hill district, it is situated 67 kilometres (42 mi) north-east from Khagrachhari town and 95 kilometres (59 mi) north from Rangamati city. The border of Bangladesh and Mizoram of India is 8 kilometres (5.0 mi) east from Sajek",
         img: "https://i.ibb.co/K2NRJGJ/Sajek.png",
         id: 3,
         category: "destination",
@@ -28,7 +28,7 @@ var data = [
         info:
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias facere reiciendis soluta voluptate a minima ratione ut doloremque fuga mollitia.",
         detailInfo:
-            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel et impedit molestiae laborum tempore suscipit in fugit ex, iure odio saepe cumque quibusdam assumenda odit velit quisquam culpa amet illo placeat itaque, est unde recusandae sed? Fugit totam quas maiores.",
+            "It is said the name Sreemangal (or Srimangal) is named after Sri Das and Mangal Das; two brothers who settled on the banks of the Hail Haor. A copper plate of Raja Marundanath from the 11th century was found in Kalapur. During an excavation at Lamua, an ancient statue of Ananta Narayan was dug out. In 1454, the Nirmai Shiva Bari was built and still stands today. Srimangal thana was established in 1912. The central town later became a pourashava in 1935. In 1963, two peasants were killed by police officers which kicked off the Balishira peasant riots.",
         img: "https://i.ibb.co/HGCK0sq/Sreemongol.png" ,
         id: 4,
         category: "destination",
