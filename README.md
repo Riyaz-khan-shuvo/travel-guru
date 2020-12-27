@@ -1,5 +1,5 @@
 
-< <img src="./src/Image/Rectangle 1.png"/>
+< <img src="./src/Images/banner.png"/>
 Travel Guru React Application
 ======= 
 
